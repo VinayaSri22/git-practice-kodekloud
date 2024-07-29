@@ -7,11 +7,19 @@ The Nautilus development team has provided requirements to the DevOps team for a
 **Solution: **
 LogIn into Storage server
 > ssh natasha@ststor01
+
 > Password: Bl@kW
+
 > sudo su -
+
 > yum install git
+
 > cd /opt/
+
 > git --version
+
 > git init --bare news.git
+
 > ls news.git/
+
 > exit
