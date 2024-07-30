@@ -5,7 +5,11 @@ Clone this Git repository to the /usr/src/kodekloudrepos directory. Ensure no mo
 
 **Solution:**
 > ssh natasha@ststor01
+
 > Bl@kW
+
 > sudo su -
+
 > cd /usr/src/kodekloudrepos
+
 > git clone /opt/media.git
