@@ -3,6 +3,7 @@ The DevOps team established a new Git repository last week, which remains unused
 Follow the provided details to clone the repository: The repository to be cloned is located at /opt/cluster.git 
 Clone this Git repository to the /usr/src/kodekloudrepos directory. Ensure no modifications are made to the repository during the cloning process.
 
+
 **Solution:**
 > ssh natasha@ststor01
 
