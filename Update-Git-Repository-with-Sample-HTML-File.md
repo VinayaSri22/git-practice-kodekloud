@@ -9,11 +9,11 @@ This repository has been cloned to /usr/src/kodekloudrepos on the storage server
 3. Push the changes to the master branch.
 
 **Solution:**
-cd /tmp/
-scp index.html natasha@172.16.238.15:/usr/src/kodekloudrepos/media
-ssh natasha@ststor01 
-cd /usr/src/kodekloudrepos/media
-chmod 777 media/*
-git add .
-git commit -m "adding index.html"
-git push origin master
+1. cd /tmp/
+  scp index.html natasha@172.16.238.15:/usr/src/kodekloudrepos/media
+  ssh natasha@ststor01 
+  cd /usr/src/kodekloudrepos/media
+  chmod 777 media/*
+  git add .
+  git commit -m "adding index.html"
+  git push origin master
