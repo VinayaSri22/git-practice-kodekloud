@@ -10,10 +10,10 @@ This repository has been cloned to /usr/src/kodekloudrepos on the storage server
 
 **Solution:**
 1. cd /tmp/
-  scp index.html natasha@172.16.238.15:/usr/src/kodekloudrepos/media
-  ssh natasha@ststor01 
-  cd /usr/src/kodekloudrepos/media
-  chmod 777 media/*
-  git add .
-  git commit -m "adding index.html"
-  git push origin master
+2. scp index.html natasha@172.16.238.15:/usr/src/kodekloudrepos/media
+3. ssh natasha@ststor01
+4. cd /usr/src/kodekloudrepos/media
+5. chmod 777 media/*
+6. git add .
+7. git commit -m "adding index.html"
+8. git push origin master
